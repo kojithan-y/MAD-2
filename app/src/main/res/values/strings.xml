@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">FinalLab2</string>
+    <string name="app_logo">app_logo</string>
+    <string name="launchScreen">Welcome home.\nYour journey starts here..</string>
+    <string name="detailsData">Use Android Studio\'s Layout Inspector to debug the view hierarchy at runtime.\nThis tool helps you visualize your app\'s UI in real-time.\nIt allows you to inspect how views are laid out and troubleshoot visibility issues.\nLook for overlapping views, incorrect constraints, or dimensions.\nIt\'s a powerful tool for identifying problems in your layout during app execution.</string>
+    <string name="villa">Villa</string>
+    <string name="_4_7">4.7</string>
+    <string name="lake_view_studio_grade_villa">Lake View Studio Grade Villa</string>
+    <string name="kumbicham_kulama_anuradhapura">Kumbicham Kulama, Anuradhapura</string>
+    <string name="_45000_lkr">45000 LKR</string>
+    <string name="month">/Month</string>
+    <string name="book_an_appointment">Book an Appointment</string>
+    <string name="location">Location</string>
+    <string name="search">Search...</string>
+    <string name="house">House</string>
+    <string name="apartment">Apartment</string>
+    <string name="banglow">Banglow</string>
+    <string name="recomended_property">Recomended Property</string>
+    <string name="see_all">See All</string>
+    <string name="_5">5</string>
+    <string name="textview">TextView</string>
+    <string name="_0">0$</string>
+    <string name="emad_nreal_estate">Emad\nReal Estate</string>
+    <string name="unlock_the_door_to_your_dream_home_n_let_us_guide_you_n_every_step_of_the_way">Unlock the door to your dream home\n let us guide you\n every step of the way</string>
+    <string name="get_started">Get Started</string>
+    <string name="profile">Profile</string>
+    <string name="saiful_islam">Saiful Islam</string>
+    <string name="it22071484_my_sliit_lk">it22071484_my_sliit_lk</string>
+    <string name="notification">Notification</string>
+    <string name="locator">Locator</string>
+    <string name="wish_list">Wish List</string>
+    <string name="chat">Chat</string>
+    <string name="share">Share</string>
+    <string name="log_out">Log Out</string>
+    <string name="recently_viewed">Recently Viewed</string>
+</resources>
