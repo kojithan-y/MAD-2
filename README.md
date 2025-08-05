@@ -25,5 +25,4 @@ An Android application project developed in **Kotlin**, showcasing the use of mu
 
 ---
 
-## 📁 Project Structure
 
